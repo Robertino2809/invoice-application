@@ -70,7 +70,7 @@ export function CreateInvoice() {
           </div>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-6"> 
+        <div className="grid md:grid-cols-2 gap-6 mb-6"> 
           <div>
             <div>
               <Label>Date</Label>
